@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\pasidu-c#\\bus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF28127-5B3A-4FA9-880A-F39097C29B9A}|bus.csproj|c:\\users\\admin\\onedrive\\desktop\\pasidu-c#\\bus\\controllers\\bookingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF28127-5B3A-4FA9-880A-F39097C29B9A}|bus.csproj|solutionrelative:controllers\\bookingdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF28127-5B3A-4FA9-880A-F39097C29B9A}|bus.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\pasidu-c#\\bus\\controllers\\busescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF28127-5B3A-4FA9-880A-F39097C29B9A}|bus.csproj|solutionrelative:controllers\\busescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF28127-5B3A-4FA9-880A-F39097C29B9A}|bus.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\pasidu-c#\\bus\\views\\buses\\bookticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF28127-5B3A-4FA9-880A-F39097C29B9A}|bus.csproj|solutionrelative:views\\buses\\bookticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "busesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\pasidu-c#\\bus\\Controllers\\busesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\busesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\pasidu-c#\\bus\\Controllers\\busesController.cs",
+              "RelativeToolTip": "Controllers\\busesController.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAAMAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:47:56.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\pasidu-c#\\bus\\Controllers\\BookingDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingDetailsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\pasidu-c#\\bus\\Controllers\\BookingDetailsController.cs",
+              "RelativeToolTip": "Controllers\\BookingDetailsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:37:41.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bookticket.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\pasidu-c#\\bus\\Views\\buses\\bookticket.cshtml",
+              "RelativeDocumentMoniker": "Views\\buses\\bookticket.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\pasidu-c#\\bus\\Views\\buses\\bookticket.cshtml",
+              "RelativeToolTip": "Views\\buses\\bookticket.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T06:19:20.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
